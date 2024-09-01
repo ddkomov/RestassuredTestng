@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3f468b71-1ef7-48ea-8ff5-ef35a097079a" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2lT8rUPGGWKPOFfvHGTP5yMI5yZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven.RestassuredTestng [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.RestassuredTestng [compile].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.RestassuredTestng [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.RestassuredTestng [io.qameta.allure:allure-maven:2.12.0:install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.RestassuredTestng [io.qameta.allure:allure-maven:2.12.0:report].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.RestassuredTestng [io.qameta.allure:allure-maven:2.12.0:serve].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.RestassuredTestng [test].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.RestassuredTestng [validate].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;TestNG.HttpBinTest.basisAuthTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.HttpBinTest.errorBasicAuthTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.HttpBinTest.errorBearerAuthTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.HttpBinTest.errorCacheTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.HttpBinTest.errorDigestAuthTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.HttpBinTest.getTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.HttpBinTest.succesResponseHeadersTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.HttpBinTest.successBasicAuthTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.HttpBinTest.successBearerAuthTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.HttpBinTest.successDigestAuthTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.HttpBinTest.successHeadersTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.HttpBinTest.successIPTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.HttpBinTest.successUserAgentTest.executor&quot;: &quot;Run&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Asus/IdeaProjects/RestassuredTestng/src/test/java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.4954023&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Asus\IdeaProjects\RestassuredTestng\src\test\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.HttpBinTest.successHeadersTest">
+    <configuration name="HttpBinTest.errorCacheTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestassuredTestng" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="HttpBinTest" />
+      <option name="METHOD_NAME" value="errorCacheTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HttpBinTest.succesResponseHeadersTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestassuredTestng" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="HttpBinTest" />
+      <option name="METHOD_NAME" value="succesResponseHeadersTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HttpBinTest.successHeadersTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestassuredTestng" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="HttpBinTest" />
+      <option name="METHOD_NAME" value="successHeadersTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HttpBinTest.successIPTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestassuredTestng" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="HttpBinTest" />
+      <option name="METHOD_NAME" value="successIPTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HttpBinTest.successUserAgentTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestassuredTestng" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="HttpBinTest" />
+      <option name="METHOD_NAME" value="successUserAgentTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.HttpBinTest.successHeadersTest" />
+        <item itemvalue="TestNG.HttpBinTest.succesResponseHeadersTest" />
+        <item itemvalue="TestNG.HttpBinTest.errorCacheTest" />
+        <item itemvalue="TestNG.HttpBinTest.successUserAgentTest" />
+        <item itemvalue="TestNG.HttpBinTest.successIPTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f468b71-1ef7-48ea-8ff5-ef35a097079a" name="Changes" comment="" />
+      <created>1725192906349</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725192906349</updated>
+    </task>
+    <servers />
+  </component>
+</project>
